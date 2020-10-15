@@ -1,0 +1,18 @@
+.headerContainer {
+    display: flex;
+    width: 100%;
+    background-color: black;
+    color: blanchedalmond;
+    height: 20vh;
+    align-items: center;
+    justify-content: center;
+}
+.footerContainer {
+    display: flex;
+    width: 100%;
+    background-color: black;
+    color: blanchedalmond;
+    height: 20vh;
+    align-items: center;
+    justify-content: center;
+}

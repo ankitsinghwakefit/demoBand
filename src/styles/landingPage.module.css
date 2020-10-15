@@ -1,0 +1,39 @@
+
+.para {
+    font-size: 20px;
+}
+.landingContainer {
+    font-family: 'Roboto';
+}
+.bodyContainer {
+    width: 60%;
+    margin: 0 auto;
+    line-height: 1.5;
+    min-height: 550px;
+}
+.innerBodyContainer {
+    border-bottom: 2px solid #eee;
+}
+.imageContainer {
+    margin: 20px;
+}
+.imageContainer img {
+    border-radius: 8px;
+}
+.btn {
+    width: 90px;
+    height: 35px;
+    border-radius: 8px;
+    font-size: 20px;
+    display: inline-block;
+    color: white;
+    background-color: black;
+    border: 1px solid #ccc;
+    text-decoration: none;
+}
+h1 {
+    font-size: 40px;
+}
+h3 {
+    font-size: 20px;
+}
