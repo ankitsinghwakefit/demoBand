@@ -11,9 +11,6 @@
     line-height: 1.5;
     min-height: 550px;
 }
-.innerBodyContainer {
-    border-bottom: 2px solid #eee;
-}
 .imageContainer {
     margin: 20px;
 }
@@ -30,6 +27,13 @@
     background-color: black;
     border: 1px solid #ccc;
     text-decoration: none;
+}
+.btn:hover {
+    text-decoration: none;
+}
+.paraIns {
+    font-size: 20px;
+    color: sandybrown;
 }
 h1 {
     font-size: 40px;

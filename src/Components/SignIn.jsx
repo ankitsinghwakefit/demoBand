@@ -18,7 +18,7 @@ function signIn(){
                     <div className={signInStyle.inputContainer}>
                         <input placeholder='Password' type='password'></input>
                     </div>
-                <RouteLink className={signInStyle.btn} to="/deshboard">
+                <RouteLink className={signInStyle.button} to="/deshboard">
                     {"SignIn"}
                 </RouteLink>
                 </div>

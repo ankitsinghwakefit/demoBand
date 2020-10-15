@@ -14,13 +14,12 @@
 .inputContainer input {
     border: 1px solid #ccc;
     border-radius: 4px;
-    height: 20px;
+    height: 30px;
     padding: 8px;
     width: 100%;
 }
-.btn {
+.button {
     width: 90px;
-    height: 25px;
     display: inline-block;
     color: white;
     background-color: black;
@@ -28,6 +27,9 @@
     padding: 10px;
     border-radius: 8px;
     font-size: 20px;
+}
+.button:hover {
+    text-decoration: none;
 }
 input:focus{
     outline: none;
