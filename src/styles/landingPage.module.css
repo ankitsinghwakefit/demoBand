@@ -1,43 +1,42 @@
-
 .para {
-    font-size: 20px;
+  font-size: 20px;
 }
 .landingContainer {
-    font-family: 'Roboto';
+  font-family: "Roboto";
 }
 .bodyContainer {
-    width: 60%;
-    margin: 0 auto;
-    line-height: 1.5;
-    min-height: 550px;
+  width: 60%;
+  margin: 0 auto;
+  line-height: 1.5;
+  min-height: 550px;
 }
 .imageContainer {
-    margin: 20px;
+  margin: 20px;
 }
 .imageContainer img {
-    border-radius: 8px;
+  border-radius: 8px;
 }
 .btn {
-    width: 90px;
-    height: 35px;
-    border-radius: 8px;
-    font-size: 20px;
-    display: inline-block;
-    color: white;
-    background-color: black;
-    border: 1px solid #ccc;
-    text-decoration: none;
+  width: 90px;
+  height: 35px;
+  border-radius: 8px;
+  font-size: 20px;
+  display: inline-block;
+  color: white;
+  background-color: black;
+  border: 1px solid #ccc;
+  text-decoration: none;
 }
 .btn:hover {
-    text-decoration: none;
+  text-decoration: none;
 }
 .paraIns {
-    font-size: 20px;
-    color: sandybrown;
+  font-size: 20px;
+  color: sandybrown;
 }
 h1 {
-    font-size: 40px;
+  font-size: 40px;
 }
 h3 {
-    font-size: 20px;
+  font-size: 20px;
 }
